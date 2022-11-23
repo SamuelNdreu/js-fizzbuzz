@@ -1,9 +1,17 @@
-body {
-    font-family: "Poppins",sans-serif;
-}
+
 
 /* Flex Properties */
 .flex{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+}
+section.wrapper{
+    font-size: x-large;
+    box-shadow: 10px 5px 5px rgb(0, 4, 255);
+}
+div{
+    margin-left:3rem;
+}
+div#frizz{
+    box-shadow: 10px 5px 5px rgb(9, 255, 0);
 }
